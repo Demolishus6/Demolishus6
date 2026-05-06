@@ -4,11 +4,12 @@
 ## Hi there, I'm Dawson, as you could tell ! 👋
 
 ### 👨‍💻 Aspiring Developer | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
+### He/Him | (Trans) Male | Bisexual | I Love my partner 
 
 I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been learning about 3 months now, on Coddy, Codedex, and Youtube. I love building projects that track my favorite movies and series.
 
 ---
-> "Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." — Lex Luthor 🧠🧪>
+> "Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." — Lex Luthor 🧠🧪
 ---
 
 ### 🚀 What I'm working on:
