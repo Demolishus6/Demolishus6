@@ -1,6 +1,7 @@
 # Hello dear traveller !
 ![Banner](https://i.ibb.co/Z6BhYZjV/ezgif-com-resize.gif)
 
+---
 ## Hi there, I'm Dawson, as you could tell ! 👋
 
 ### 👨‍💻 Aspiring Developer | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
@@ -18,8 +19,7 @@ I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been 
 - 📈 **GitHub Goals**: Building my portfolio one "commit" at a time.
 
 ### 🛠️ Tools of the Trade:
-![HTML5](https://i.ibb.co/RpSQxwKF/HTML5-logo-and-wordmark-svg-ezgif-com-resize-1.png) 
-![CSS3](https://i.ibb.co/xSGHrPBS/CSS3-logo-and-wordmark-svg-ezgif-com-resize.png)
+![HTML5](https://i.ibb.co/RpSQxwKF/HTML5-logo-and-wordmark-svg-ezgif-com-resize-1.png) ![CSS3](https://i.ibb.co/xSGHrPBS/CSS3-logo-and-wordmark-svg-ezgif-com-resize.png)
 
 ---
 <!--
