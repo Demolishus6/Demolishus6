@@ -1,5 +1,5 @@
 ## Hello dear traveller !
-![My Cool Banner] <img src="https://ibb.co" width="100%" height="auto">
+<img src="https://ibb.co" width="100%" height="auto"/>
 <!--
 **Demolishus6/Demolishus6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
