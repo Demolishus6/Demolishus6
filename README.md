@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![My Profile Banner] (https://i.ibb.co/FbpdShKH/picmix-com-13691041.gif)
 <!--
 **Demolishus6/Demolishus6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
