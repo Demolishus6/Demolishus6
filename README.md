@@ -1,7 +1,5 @@
 ## Hello dear traveller !
-
-<img src="[https://ibb.co](https://i.ibb.co/FbpdShKH/picmix-com-13691041.gif)" width="100%" height="auto">
-
+![Banner](YOUR_NEW_GITHUB_LINK](https://i.ibb.co/Z6BhYZjV/ezgif-com-resize.gif)
 <!--
 **Demolishus6/Demolishus6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
