@@ -11,7 +11,7 @@ I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been 
 
 ---
 > "When my father dies, kings will come to his funeral, but when yours does, his friends will come." — Lex Luthor 🧠🧪
-🚨 Warning: No Lionel Luthor fans allowed on this profile.
+>🚨 Warning: No Lionel Luthor fans allowed on this profile.
 ---
 
 ### 🚀 What I'm working on:
