@@ -5,13 +5,12 @@
 ## Hi there, I'm Dawson, as you could tell ! 👋
 
 ### 👨‍💻 Aspiring Developer | 🎨 Artist | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
-### He/Him | (Trans) Male🏳‍⚧ | Bisexual🩷💜💙 | I Love my partner 
+### He/Him | (Trans) Male | Bisexual| I Love my partner 
 
 I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been learning about 3 months now, on Coddy, Codedex, and Youtube. I love building projects that track my favorite movies and series.
 
 ---
 > "When my father dies, kings will come to his funeral, but when yours does, his friends will come." — Lex Luthor 🧠🧪
->🚨 Warning: No Lionel Luthor fans allowed on this profile.
 ---
 
 ### 🚀 What I'm working on:
