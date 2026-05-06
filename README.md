@@ -17,7 +17,7 @@ I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been 
 
 ### 🛠️ Tools of the Trade:
 ![HTML5](https://i.ibb.co/RpSQxwKF/HTML5-logo-and-wordmark-svg-ezgif-com-resize-1.png) 
-![CSS3](https://shields.io)
+![CSS3](https://i.ibb.co/xSGHrPBS/CSS3-logo-and-wordmark-svg-ezgif-com-resize.png)
 
 ---
 <!--
