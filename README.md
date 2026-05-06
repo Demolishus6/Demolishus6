@@ -1,7 +1,7 @@
-## Hello dear traveller !
+# Hello dear traveller !
 ![Banner](https://i.ibb.co/Z6BhYZjV/ezgif-com-resize.gif)
 
-# Hi there, I'm Dawson, as you could tell ! 👋
+## Hi there, I'm Dawson, as you could tell ! 👋
 
 ### 👨‍💻 Aspiring Developer | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
 
@@ -9,6 +9,7 @@ I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been 
 
 ---
 > "Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." — Lex Luthor 🧠🧪
+---
 
 ### 🚀 What I'm working on:
 - 🎬 **DC Watch Order Tracker**: A complete guide to every DC movie and series from 2022 to 2025.
