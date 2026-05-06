@@ -16,7 +16,7 @@ I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been 
 - 📈 **GitHub Goals**: Building my portfolio one "commit" at a time.
 
 ### 🛠️ Tools of the Trade:
-![HTML5](https://shields.io) 
+![HTML5](https://i.ibb.co/Jj8xqFgk/HTML5-logo-and-wordmark-svg.png) 
 ![CSS3](https://shields.io)
 
 ---
