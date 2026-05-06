@@ -10,11 +10,12 @@
 I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been learning about 3 months now, on Coddy, Codedex, and Youtube. I love building projects that track my favorite movies and series.
 
 ---
-> "Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." — Lex Luthor 🧠🧪
+> "When my father dies, kings will come to his funeral, but when yours does, his friends will come." — Lex Luthor 🧠🧪
+🚨 Warning: No Lionel Luthor fans allowed on this profile.
 ---
 
 ### 🚀 What I'm working on:
-- 🎬 **DC Watch Order Tracker**: A complete guide to every DC movie and series from 2022 to 2025.
+- 🎬 **DC Watch Order Tracker**: A complete guide to every DC movie and series from 2022 to 2025, I plan to add CSS.
 - 🏗️ **Learning Logic**: Currently practicing complex list nesting and semantic layouts.
 - 📈 **GitHub Goals**: Building my portfolio one "commit" at a time.
 
