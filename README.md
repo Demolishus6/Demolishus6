@@ -4,8 +4,8 @@
 ---
 ## Hi there, I'm Dawson, as you could tell ! 👋
 
-### 👨‍💻 Aspiring Developer | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
-### He/Him | (Trans) Male | Bisexual | I Love my partner 
+### 👨‍💻 Aspiring Developer | 🎨 Artist | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
+### He/Him | (Trans) Male🏳‍⚧ | Bisexual🩷💜💙 | I Love my partner 
 
 I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been learning about 3 months now, on Coddy, Codedex, and Youtube. I love building projects that track my favorite movies and series.
 
