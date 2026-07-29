@@ -1,5 +1,5 @@
 # Hello, dear traveller!
-![Banner]([https://i.ibb.co/BHQgMTgc/338051515801635248.jpg])
+![Banner](https://i.ibb.co/BHQgMTgc/338051515801635248.jpg)
 
 ---
 ## Hi there! I'm Dawson!
