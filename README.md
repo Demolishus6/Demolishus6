@@ -1,25 +1,30 @@
-# Hello dear traveller !
-![Banner](https://i.ibb.co/Z6BhYZjV/ezgif-com-resize.gif)
+# Hello, dear traveller!
+![Banner]([https://i.ibb.co/BHQgMTgc/338051515801635248.jpg])
 
 ---
-## Hi there, I'm Dawson, as you could tell ! 👋
+## Hi there! I'm Dawson!
 
-### 👨‍💻 Aspiring Developer | 🎨 Artist | 🦸‍♂️ DC Superfan | 🍿 Smallville | 🧠🧪 #1 Certified Lex Glazer
-### He/Him | (Trans) Male | Bisexual| I Love my partner 
+### Aspiring Front-end Developer | Artist/Animtor
+### He/Him | (Trans) Male | Bisexual | #1 Lex Glazer
 
-I'm a 14-year-old coder currently mastering the art of **HTML & CSS**.I've been learning about 3 months now, on Coddy, Codedex, and Youtube. I love building projects that track my favorite movies and series.
+I'm a 14-year-old coder currently learning the art of **HTML & CSS**. I've been learning for about 3 months now, on Coddy, Codedex, freeCodecamp, and YouTube. I love building projects that centre around my interests
 
 ---
-> "When my father dies, kings will come to his funeral, but when yours does, his friends will come." — Lex Luthor 🧠🧪
+> "You see, I don't want to do good things, I want to do great things." Lex Luthor (Smallville, Season 1, "Hourglass")
 ---
+### I’m currently learning:
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
 
-### 🚀 What I'm working on:
-- 🎬 **DC Watch Order Tracker**: A complete guide to every DC movie and series from 2022 to 2025, I plan to add CSS.
-- 🏗️ **Learning Logic**: Currently practicing complex list nesting and semantic layouts.
-- 📈 **GitHub Goals**: Building my portfolio one "commit" at a time.
+### What I'm working on:
+- **DC Watch Order Tracker**: A complete guide to every DC movie and series from 2022 to 2025; I plan to add CSS.
+- **LuthorCorp Website**: A website for the fictional company Luthorcorp, and now I think it would be structured.
+- **GitHub Goals**: Building my portfolio one "commit" at a time.
 
 ### 🛠️ Tools of the Trade:
-![HTML5](https://i.ibb.co/RpSQxwKF/HTML5-logo-and-wordmark-svg-ezgif-com-resize-1.png) ![CSS3](https://i.ibb.co/xSGHrPBS/CSS3-logo-and-wordmark-svg-ezgif-com-resize.png)
+![HTML5](https://i.ibb.co/RpSQxwKF/HTML5-logo-and-wordmark-svg-ezgif-com-resize-1.png) 
+![CSS3](https://i.ibb.co/xSGHrPBS/CSS3-logo-and-wordmark-svg-ezgif-com-resize.png)
 
 ---
 <!--
